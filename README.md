@@ -1,18 +1,21 @@
-![profile](./profile_picturejpeg)
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="./profile_picture.jpeg" width="200" style="border-radius: 50%;" />
+    </td>
+    <td width="65%">
+      <h2>Hi, I'm Khushi 👋</h2>
+      <p>
+        Full-stack MERN developer building real-world web applications.<br/>
+        Currently exploring AI/ML alongside backend-heavy development.<br/>
+        I focus on logic, clean code, and actually shipping things.
+      </p>
+      <p>
+        🎓 B.Tech (2027)<br/>
+        💻 MERN Stack Developer<br/>
+        🤖 Learning AI/ML
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Hi there 👋
-
-<!--
-**khushiiiyadavv07/khushiiiyadavv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
