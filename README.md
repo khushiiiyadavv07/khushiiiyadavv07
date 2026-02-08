@@ -1,7 +1,7 @@
 <div style="width=100%; padding-top=50px; padding-left=20px;">
   <div style="display=flex; gap=10px;">
     <div width="35%" align="center">
-      <img src="./profile_picturejpeg" width="200" style="border-radius: 50%;" />
+      <img src="./profile_picture.jpeg" width="200" style="border-radius: 50%;" />
     </div>
     <div width="65%">
       <h2>Hi, I'm Khushi 👋</h2>
