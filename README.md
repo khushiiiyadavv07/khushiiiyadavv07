@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td width="35%" align="center">
       <img src="./profile_picturejpeg" width="200" style="border-radius: 50%;" />
