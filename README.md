@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="./profile_picture.jpeg" width="200" style="border-radius: 50%;" />
+      <img src="./profile_picturejpeg" width="200" style="border-radius: 50%;" />
     </td>
     <td width="65%">
       <h2>Hi, I'm Khushi 👋</h2>
