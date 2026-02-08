@@ -1,3 +1,5 @@
+![profile](./profile_picture.jpeg)
+
 ## Hi there 👋
 
 <!--
