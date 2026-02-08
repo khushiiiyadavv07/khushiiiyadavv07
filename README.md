@@ -3,7 +3,7 @@
     <!-- IMAGE COLUMN -->
     <td width="35%" style="padding:0; margin:0;">
       <img 
-        src="./profile_picture.jpeg"
+        src="./profile.jpg"
         style="width:100%; height:auto; display:block;"
       />
     </td>
