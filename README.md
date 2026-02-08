@@ -1,4 +1,4 @@
-<div width="100%" style="padding-top=50px; padding-left=20px;">
+<div style="width="100%; padding-top=50px; padding-left=20px;">
   <div style="display=flex; gap=10px;">
     <div width="35%" align="center">
       <img src="./profile_picturejpeg" width="200" style="border-radius: 50%;" />
