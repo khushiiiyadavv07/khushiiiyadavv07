@@ -1,5 +1,5 @@
 <div width="100%" padding-top=50px padding-left=20px>
-  <div>
+  <div display="flex" gap=10px>
     <div width="35%" align="center">
       <img src="./profile_picturejpeg" width="200" style="border-radius: 50%;" />
     </div>
